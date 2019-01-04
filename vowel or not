@@ -1,0 +1,5 @@
+ch=("enter a character:")
+if(ch=='a')
+print(ch,"is a vowel")
+else:
+print(ch,"is a consonant")
